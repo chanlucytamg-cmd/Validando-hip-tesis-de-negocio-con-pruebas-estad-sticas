@@ -89,6 +89,82 @@ La empresa necesita una decisión basada en datos para definir qué versión imp
 * **Matplotlib / Seaborn** (Visualización de datos y gráficos analíticos)
 
 
+**VISUALIZACIONES GRAFICAS**
+
+
+<img width="549" height="389" alt="image" src="https://github.com/user-attachments/assets/61233259-614c-4288-8c5d-b9d439f64ff1" />
+
+
+En el grafico de barras agrupados visualizamos cuantos usuarios absolutos se conviertieron a clientes y en que tipo de Fuuente de trafico, y cuantos no se convirtieron.
+
+Predominio en Volumen (Organic): El tráfico Organic representa la mayor cantidad absoluta de usuarios en la plataforma. Registra la mayor barra de no convertidos (15,500) y el mayor volumen absoluto de convertidos (2,480).
+
+Canales Menores (Email y Referral): Email y Referral registran los menores volúmenes absolutos de tráfico. Aunque Email tiene un volumen total menor que Ads y Organic, mantiene un número considerable de usuarios convertidos en relación a su tamaño total.
+
+
+<img width="557" height="332" alt="image" src="https://github.com/user-attachments/assets/8d8705ef-1802-4fff-a640-fc7c3776223b" />
+
+
+**Liderazgo en conversión:** Email se visualiza como el canal más efectivo con una tasa de conversión del 14.99%, seguido de cerca por Ads con un 14.74%.
+
+**Canales con menor rendimiento:** Referral alcanza un 13.88% y Organic se sitúa en el extremo inferior con un 13.79%.
+
+
+<img width="556" height="391" alt="image" src="https://github.com/user-attachments/assets/546caac8-33c9-4404-a9c9-16b52ddd888b" />
+
+El grafico nos muestra cuantos usuarios se convirtieron a clientes por tipo y cuando no se convirtieron y de que tipo.
+
+**Dominio del Tráfico por Usuarios Nuevos:** La mayor concentración de visitas proviene de usuarios Nuevos, registrando algo más de 22,000 usuarios no convertidos y cerca de 3,700 convertidos.
+
+**Volumen de Usuarios Recurrentes:** El segmento de usuarios Recurrentes maneja una escala menor, alcanzando aproximadamente 12,000 no convertidos y cerca de 2,000 convertidos.
+
+
+🌟 **Insight Ejecutivo basado en el Experimento A/B**
+
+**Gasto promedio por usuario que convirtió:**
+
+*La Página B* optimiza (o mantiene) la conversión, eleva de manera drástica el ticket promedio / gasto por usuario.
+El gasto promedio por usuario entre la Página A y la Página B no es igual. El signo negativo en el estadístico (asumiendo la resta A−B) indica que la Página B genera un gasto significativamente mayor que la Página A.
+
+*Interpretación:*
+
+    Existe evidencia abrumadora para concluir que el gasto promedio por usuario entre la Página A y la Página B no es igual
+
+**Tasa de conversión:** 
+- La Página B supera estadísticamente a la Página A en las dos métricas clave de negocio: tasa de conversión (p=4.33×10 −22) y gasto promedio por usuario (p=3.63×10 −21)
+  
+- No existe ningún trade-off (ganar conversión a costa de vender más barato).
+  
+- *Interpretación:*
+
+    La versión B demostró ser superior porque logró que un porcentaje mayor de visitantes comprara y que cada uno de ellos gastara más dinero en su compra.
+
+
+  **Segmentación por fuente de tráfico**
+
+  Aporte al Volumen General: Organic: motor principal que nutre el total absoluto de ventas (2,480 conversiones)
+  
+- *Interpretación:*
+ 
+    El valor estadístico indica Diferencia moderada entre lo observado y lo esperado 8.662
+
+    Ese 8.662 es la prueba matemática de que el tráfico no se comporta de manera homogénea. Confirma que las variaciones en las tasas de conversión (14.99% en Email vs. 13.79% en Organic) no son ruido aleatorio, sino una diferencia real en el comportamiento de compra según el canal de origen
+
+
+  **Segmentación por tipo de usuario**
+
+Al evaluar si un perfil muestra mayor probabilidad de conversión, los datos concluyen que ningún grupo supera al otro. La tasa de conversión es idéntica (≈14.26%) tanto para usuarios de primera visita como para usuarios recurrentes.
+
+
+**Interpretación:**
+
+ El hecho de que un usuario haya visitado la plataforma anteriormente no incrementa ni disminuye su propensión a completar una compra en la sesión actual. La fricción o motivación de compra afecta por igual a ambos segmentos.
+
+
+
+
+
+
 
 
    
